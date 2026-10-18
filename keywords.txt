@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map for GFMotor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+GFMotor	KEYWORD1
+GFHBridgeMotor	KEYWORD1
+ZeroMode	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setSpeed	KEYWORD2
+getSpeed	KEYWORD2
+setInverted	KEYWORD2
+getInverted	KEYWORD2
+setZeroMode	KEYWORD2
+getZeroMode	KEYWORD2
+stop	KEYWORD2
+brake	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+COAST	LITERAL1
+BRAKE	LITERAL1
