@@ -1,4 +1,4 @@
-/*	GFMotor- Geek Factory Motor Library
+/*	GFMotor - Geek Factory Motor Library
 	Copyright (C) 2026 Jesus Ruben Santa Anna Zamudio.
 
 	This program is free software; you can redistribute it and/or modify

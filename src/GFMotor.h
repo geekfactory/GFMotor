@@ -33,6 +33,9 @@
  *
  * Derived classes must implement the hardware-specific operations for driving,
  * coasting, and braking the motor.
+ * 
+ * @note The motor hardware must be initialized before calling configuration or
+ * motor-control methods.
  */
 class GFMotor
 {
